@@ -1,3 +1,8 @@
-Requests==2.31.0
-st_pages==0.4.4
-streamlit==1.23.1
+Requests
+st_pages
+streamlit
+pillow
+pytube
+st-annotated-text
+datetime
+streamlit-option-menu
